@@ -6,4 +6,4 @@ My CV : https://www.ch2o.info/cv
 
 My Linkedin : https://www.linkedin.com/in/mcarbonneaux
 
-![mcarbonneaux’ Github Metrics](https://github.com/mcarbonneaux/mcarbonneaux/blob/master/github-metrics.svg)
+![Metrics](/github-metrics.svg)
